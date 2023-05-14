@@ -1,4 +1,4 @@
-![]
+# Mahrukh Nisar
 <h1 align="center">Hi 👋, I'm Mahrukh Nisar</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
